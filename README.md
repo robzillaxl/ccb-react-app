@@ -1,2 +1,2 @@
 # ccb-react-app
-Chesterfield Concert Band React website.
+Chesterfield Concert Band React web pages.
